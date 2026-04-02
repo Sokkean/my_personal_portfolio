@@ -8,24 +8,24 @@ const contactMethods = [
   {
     icon: <Phone className="w-8 h-8 text-blue-500" />,
     title: "Phone",
-    value: "+1 (234) 567-890", // Placeholder, user will change it
-    link: "tel:+1234567890",
+    value: "855 (0) 88 438 763", // Placeholder, user will change it
+    link: "tel:+85588438763",
     description: "Mon-Fri from 8am to 5pm.",
     delay: 0.1,
   },
   {
     icon: <Mail className="w-8 h-8 text-green-500" />,
     title: "Email",
-    value: "hello@example.com",
-    link: "mailto:hello@example.com",
+    value: "heakean123@gmail.com",
+    link: "mailto:heakean123@gmail.com",
     description: "Our friendly team is here to help.",
     delay: 0.2,
   },
   {
     icon: <SiTelegram className="w-8 h-8 text-[#26A5E4]" />,
     title: "Telegram",
-    value: "@your_telegram",
-    link: "https://t.me/your_telegram",
+    value: "@kean_empty",
+    link: "https://t.me/kean_empty",
     description: "Send me a direct message anytime.",
     delay: 0.3,
   }
