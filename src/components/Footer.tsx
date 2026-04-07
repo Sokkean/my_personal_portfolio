@@ -24,7 +24,7 @@ export default function Footer() {
           {/* Social Links */}
           <div className="flex items-center gap-4">
             <a 
-              href="https://github.com" 
+              href="https://github.com/Sokkean" 
               target="_blank" 
               rel="noopener noreferrer"
               className="w-10 h-10 rounded-full bg-white dark:bg-gray-900 flex items-center justify-center text-gray-600 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-500 hover:shadow-md transition-all border border-gray-200 dark:border-gray-800"
@@ -32,7 +32,7 @@ export default function Footer() {
               <SiGithub className="w-5 h-5" />
             </a>
             <a 
-              href="https://t.me" 
+              href="https://t.me/kean_empty" 
               target="_blank" 
               rel="noopener noreferrer"
               className="w-10 h-10 rounded-full bg-white dark:bg-gray-900 flex items-center justify-center text-gray-600 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-500 hover:shadow-md transition-all border border-gray-200 dark:border-gray-800"

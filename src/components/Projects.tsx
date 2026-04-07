@@ -27,7 +27,7 @@ const projects = [
       { name: "Laravel", icon: <SiLaravel className="w-4 h-4 text-[#FF2D20]" /> },
       { name: "MySQL", icon: <SiMysql className="w-4 h-4 text-[#4479A1]" /> },
       { name: "WebSockets", icon: <SiSocketdotio className="w-4 h-4 text-black dark:text-white" /> },
-      { name: "Stripe API", icon: <SiStripe className="w-4 h-4 text-[#008CDD]" /> },
+      // { name: "Stripe API", icon: <SiStripe className="w-4 h-4 text-[#008CDD]" /> },
       { name: "Docker", icon: <SiDocker className="w-4 h-4 text-[#2496ED]" /> }
     ],
     icon: <UtensilsCrossed className="w-8 h-8 text-orange-500" />,
