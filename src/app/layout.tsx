@@ -3,8 +3,8 @@ import "./globals.css";
 import { ThemeProvider } from "../components/theme-provider";
 
 export const metadata: Metadata = {
-  title: "sokkean-personal-portfolio",
-  description: "sokkean-personal-portfolio",
+  title: "Suon Sokkean | Backend Developer",
+  description: "Backend Developer (NestJS & Laravel) | System Architecture | Database Design | API Development",
 };
 
 export default function RootLayout({
